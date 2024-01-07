@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "6ecf8fec7b4aa9fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ace45fec4927e6",
+        "type": "tabs",
+        "dimension": 67.00729927007299,
+        "children": [
+          {
+            "id": "88a0ea9be77790a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vector components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38f798fd49efdd7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Frames.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f418152869a73cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vector components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f25663d5fc04486f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af58919c4488a9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7761f2c8149c9c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55ee739dd9cf7a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87f2de9195526b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "db17d2b34cfe618b",
+        "type": "tabs",
+        "dimension": 32.992700729927,
+        "children": [
+          {
+            "id": "dc14ce825accfad1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "581c2bd53d87e72d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b039cc0daec1a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15aeaa849ba10087",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8f1c5be5250e42d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cfb9159bd286f08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0deaf2c7bb9bbe8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b48b1f25a3c25307",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63af4723f9de8e8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference Frames.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1806a67d52738ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference Frames.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84ed1ededbf47f34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d149d92df2a2665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference Frames.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "38f798fd49efdd7a",
+  "lastOpenFiles": [
+    "vector components.md",
+    "Reference Frames.md",
+    "polCart 1.png",
+    "polCart.png",
+    "PNG image-60EA451CE2DC-1.png",
+    "Untitled.canvas",
+    "2024-01-06.md",
+    "Graphs.md",
+    "symmetry.md",
+    "Dynamics.md",
+    "Exams!.md",
+    "Kinematics.md",
+    "Circular Motion.md",
+    "Waves.md",
+    "Untitled.md",
+    "Fields.md",
+    "Other Stuff.md",
+    "Forces.md",
+    "Energy.md",
+    "Momentum.md"
+  ]
+}

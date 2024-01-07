@@ -1,0 +1,1 @@
+This is the "less significant" part of the exam, which includes [[Waves]] and [[Fields]]. Fields is particularly important, because particles can be very much included into kinematics and stuff.
